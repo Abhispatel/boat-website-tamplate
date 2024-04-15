@@ -1,0 +1,658 @@
+@media(max-width: 1199px){
+
+.img1{
+       height: 450px;
+       width: 70%;
+       z-index: 3;
+       position: absolute;
+       top: 200px;
+       right: 200px;
+    }
+.div1{
+      height: 350px;
+      width: 100%;
+        
+    }
+
+.div8 h1 {
+        font-size: 70px;
+    }
+.div2{
+        height: 400px;
+        width: 90%;
+        z-index: 2;
+        position: absolute;
+        right: 80px;
+        top: 20px;
+
+    }
+    
+    .div3 {
+        background-color: rgb(245 124 28);
+        height: 280px;
+        width: 68%;
+        position: absolute;
+        left: 170px;
+        top: 320px;
+    }
+    
+    #btn1{
+        margin-top: 10px;
+        width: 30%;
+    }
+    .sec2{
+        height: 1400px;
+            
+    }
+    .div4,.div5,.div6,.div7{
+        width: 80%;
+    
+        
+    }
+    .div4{
+           position: relative;
+            bottom: 150px;
+            left: 60px;
+        }
+   .div5{
+           position: relative;
+           bottom: 150px;
+           left: 30px;
+  }
+    
+    .div6{
+           position: relative;
+            bottom: 140px;
+            left: 60px;
+}
+    .div7{
+            position: relative;
+            bottom: 140px;
+            left: 30px;
+           
+    }
+    .para1{
+            padding-right: 200px;
+            position: absolute;
+            top: 650px;
+            left: 150px;
+    }
+    .div8,.div9,.div10,.div11{
+        width: 80%;
+
+    }
+    .div8{
+        position: absolute;
+        top: 200px;
+        left: 90px;
+    }
+    .div9{
+            position: absolute;
+            top: 200px;
+            left: 40px;
+            padding-left: 50px;
+    }
+    .div10{
+            position: absolute;
+            top: 200px;
+            right: 65px;
+            padding-left: 50px;
+        
+
+    }
+    .div11{
+            position: absolute;
+            top: 200px;
+            right: 115px;
+            padding-left: 50px;
+    }
+    .img2 {
+        height: 580px;
+        z-index: 1;
+        height: 620px;
+        width: 40%;
+        position: relative;
+        left: 80px;
+        bottom: 180px;
+            
+    }
+    .div13 {
+        background-color: hsl(225deg 9.09% 17.25%);
+        color: white;
+        height: 300px;
+        width: 50%;
+        position: relative;
+        left: 550px;
+        bottom: 863px;
+        padding-left: 30px;
+        padding-right: 50px;
+        padding-top: 20px;
+    
+    }
+    
+    .img3 {
+        height: 300px;
+        width: 49%;
+        z-index: 3;
+        position: absolute;
+        left: 563px;
+        bottom: 236px;
+    }
+    
+    .para2 {
+        margin-left: 200px;
+        margin-right: 300px;
+        margin-top: 10px;
+    }
+    .div15 {
+        background-color: rgb(245 124 28);
+        height: 300px;
+        width: 50%;
+    }
+    .div17 {
+        height: 280px;
+        width: 50%;
+        background-color: rgb(245 124 28);
+        position: absolute;
+        right: 100px;
+        top: 20px;
+        z-index: -1;
+    }
+    .img4 {
+        height: 350px;
+        width: 65%;
+        position: relative;
+        left: 100px;
+        bottom: 220px;
+    }
+    #btn4 {
+        background-color: rgb(245 124 28);
+        color: white;
+        border-radius: 0px;
+        width: 30%;
+        margin-top: 10px;
+        margin-left: 250px;
+        position: relative;
+        bottom: 200px;
+    }
+    .para3 {
+        height: 300px;
+        width: 55%;
+        position: absolute;
+        top: 450px;
+        left: 250px;
+        line-height: 50px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+    .img5 {
+        height: 350px;
+        width: 60%;
+        position: absolute;
+        top: 100px;
+        right: 180px;
+        
+    }
+    .para4 {
+        height: 300px;
+        width: 51%;
+        position: absolute;
+        top: 480px;
+        right: 250px;
+        line-height: 30px;
+    }
+    .div19 {
+        height: 350px;
+        width: 50%;
+        background-color: rgb(245 124 28);
+        margin-top: 550px;
+        margin-left: 10px;
+    }
+    .img6 {
+        height: 420px;
+        width: 60%;
+        position: absolute;
+        top: 620px;
+        left: 120px;
+        z-index: 2;
+    }
+    .para5 {
+        margin-top: 230px;
+        padding-right: 150px;
+        margin-left: 220px;
+    }
+    .div21 {
+        background-color: rgb(245 124 28);
+        border-radius: 50%;
+        height: 50px;
+        width: 50px;
+        margin-top: 50px;
+        margin-left: 220px;
+    }
+    .div22 {
+        background-color: rgb(245 124 28);
+        height: 400px;
+        width: 70%;
+        margin-left: 11px;
+    }
+    .div20 {
+        width: 80%;
+        height: 430px;
+        margin-top: 100px;
+        margin-left: 10px;
+        background-color: hsl(225deg 9.09% 17.25%);
+        color: white;
+        padding-top: 80px;
+        padding-left: 150px;
+        padding-right: 100px;
+        line-height: 30px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .img7 {
+        height: 450px;
+        width: 70%;
+        position: absolute;
+        top: 60px;
+        left: 110px;
+    }
+    .sec6 {
+        margin-top: 100px;
+        height: 1050px;
+    }
+    .div23 {
+        background-color: white;
+        height: 320px;
+        width: 60%;
+        padding-top: 30px;
+        padding-left: 50px;
+        padding-right: 100px;
+        position: absolute;
+        top: 40px;
+        right: 350px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+    .div25 {
+        color: white;
+        margin-top: 100px;
+        margin-left: 50px;
+        line-height: 30px;
+        padding-right: 250px;
+    }
+    .div26 {
+        margin-top: 80px;
+        margin-bottom: 200px;
+        line-height: 30px;
+    }
+    .textarea #textarea1{
+     width: 77%;
+    }
+
+    
+}
+
+
+
+
+
+ @media(max-width: 767px){
+    
+#i1{
+        margin-right: 30px;
+    }
+    .sec1{
+        height: 400px;
+    }
+    
+   .div1{
+          margin-top: 40px;
+          height: 200px;
+          width: 95%;
+} 
+.div2{
+        height: 200px;
+        width: 70%;
+        position: absolute;
+        right: 60px;
+        top: 70px;
+        font-size:  1px;
+        padding-top: 10px;
+    }
+    .div2 h1{
+        font-size: 10px;
+    }
+    .div2 #btn1{
+        font-size:4px;
+        margin-top: 5px;
+
+    }
+    .img1 {
+                height: 200px;
+                position: absolute;
+                top: 80px;
+                right: 62px;
+            
+        }
+   
+    .div3{
+            height: 170px;
+            width: 45%;
+            position: absolute;
+            top: 50px;
+        
+    }
+    .sec2{
+        margin-top: 160px;
+        height: 1700px;
+    }
+    .div4,.div5,.div6,.div7{
+        height: 180px;
+        width: 90%;
+        line-height: 20px;
+    }
+    #i2,#i3,#i4,#i5{
+        font-size: 10px;
+        padding: 10px;
+    }
+    .div4{
+        /* position: relative; */
+        /* left:0px; */
+        /* bottom: 30px; */
+
+        position: absolute;
+        top: -30px;
+        left: 5px;
+        padding-top: 25px;
+    
+
+    }
+    .div5{
+        /* position: relative; */
+        /* left: 0px; */
+        /* bottom: 25px; */
+
+
+        position: absolute;
+        left: 5px;
+        top: 155px;
+        padding-top: 25px;
+    
+    }
+    .div6{
+        /* position: relative; */
+        /* bottom: 20px; */
+        /* left: 0px; */
+
+        position: absolute;
+        left: 5px;
+        top: 340px;
+        padding-top: 25px;
+        
+        
+
+    }
+    .div7{
+        /* position: relative; */
+        /* left: 0px; */
+        /* bottom: 15px; */
+        position: absolute;
+        left: 5px;
+        top: 525px;
+        padding-top: 25px;
+    }
+    .para1{
+        padding-right: 30px;
+        position: absolute;
+        top: 1200px;
+        left: 50px;
+        
+    }
+    .div8,.div9,.div10,.div11{
+        width: 45%;
+        height: 200px;
+        padding-left: 10px;
+    
+
+    }
+    .div8{
+        position: absolute;
+        top:740px;
+        left: 0px;
+        
+   }
+   .div8 h1{
+    font-size: 40px;
+    padding-left: 10px;
+   }
+   .div9 h1{
+    font-size: 40px;
+    padding-left: 30px;
+
+   }
+   .div10 h1{
+    font-size: 40px;
+    padding-left: 30px;
+}
+
+   
+   .div11 h1{
+    font-size: 40px;
+    padding-left: 30px;
+    
+
+   }
+   .div8 p {
+    padding-left: 10px;
+}
+.div9 p {
+    padding-left: 1px;
+}
+   
+    .div9{
+        position: absolute;
+        top: 740px;
+        left: 160px;
+
+
+    }
+    .div10{
+        position: absolute;
+        top: 950px;
+        left: 0px;
+
+    }
+    .div11{
+        position: absolute;
+        top: 950px;
+        left: 160px;
+    }
+    
+
+    .sec3{
+        height: 1260px;
+    }
+    .img2{
+            height: 400px;
+            width: 90%;
+            position: relative;
+            bottom: 150px;
+            left: 5px;
+        
+
+    }
+    .img3{
+            position: absolute;
+            left: 25px;
+            top: 970px;
+            width: 80%;
+        
+
+    }
+    .div13{
+            height: 400px;
+            width: 82%;
+            padding-top: 1px;
+            padding-right: 20px;
+            padding-left: 20px;
+            position: absolute;
+            bottom: 350px;
+            left: 20px;
+    }
+    #btn3{
+        margin-top: 20px;
+        width: 70%;
+
+
+    }
+    .para2{
+        margin-left: 50px;
+        margin-top: 230px;
+        margin-right: 50px;
+        position: relative;
+        top: 100px;
+    }
+    #btn4{
+        margin-top: 240px;
+        margin-left: 50px;
+        width: 60%;
+        position: relative;
+        bottom: 100px;
+    }
+    .div15{
+         margin-left: 10px;
+         width: 60%;
+    }
+    .img4{
+            position: relative;
+            left: 50px;
+            bottom: 250px;
+            height: 300px;
+            width: 70%;
+        
+    }
+    .para3{
+            position: absolute;
+            left: 80px;
+            top: 380px;
+            line-height: 10px;
+            width: 60%;
+        
+    }
+    .div17{
+            position: absolute;
+            right: 30px;
+            top: 160px;
+            width: 80%;
+    }
+    .img5{
+        position: absolute;
+        right: 45px;
+        width: 70%;
+        top: 200px;
+
+    }
+    .para4{
+    width: 65%;
+    position: absolute;
+    top: 570px;
+    right: 60px;
+   }
+    .div19{
+        margin-top: 650px;
+        margin-left: 10px;
+        height: 280px;
+
+    }
+    .img6{
+            position: absolute;
+            left: 55px;
+            top: 30px;
+            height: 300px;
+        
+    }
+    .para5{
+            margin-left: 50px;
+            margin-right: 10px;
+            margin-top: 100px;
+        
+        
+    }
+    .div20{
+        height: 470px;
+        width: 90%;
+        margin-top: 110px;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 1px;
+        
+    }
+    .div21{
+        margin-left: 30px;
+
+    }
+    #btn6{
+        margin-top: 0px;
+        margin-bottom: 10px;
+
+    }
+    .para6{
+        margin-top: 50px;
+        position: relative;
+        right: 10px;
+    }
+    .div22{
+        margin-left: 1px;
+        margin-top: 230px;
+    
+
+    }
+    .img7{
+        position: absolute;
+        left: 35px;
+        width: 80%;
+
+    }
+    .div23{
+        position: absolute;
+        right: 40px;
+        top: 20px;
+        padding-top: 10px;
+        height: 400px;
+        padding-left: 10px;
+        padding-right: 10px;
+        width: 80%;
+
+    }
+    .div24{
+        margin-left: 30px;
+
+    }
+    #btn8{
+        width: 50%;
+    }
+    .sec6{
+        height: 1400px;
+    }
+    .sec7{
+        height: 830px;
+        width: 90%;
+        margin-left: 10px;
+    }
+    .div25{
+        padding-right: 70px;
+        
+
+    }
+    .div26{
+        margin-left: 30px;
+        margin-top: 40px;
+        
+        
+
+    }
+    .textarea #textarea1{
+        margin-right: 50px;
+        width: 78%;
+
+    }
+    
+ }
